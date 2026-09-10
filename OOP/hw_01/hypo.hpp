@@ -1,0 +1,1 @@
+double hypotenuse(int a, int b);

@@ -1,0 +1,1 @@
+double hypotenuse_mod(int a, int b);
