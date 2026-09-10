@@ -1,6 +1,5 @@
 #include "hypo_mod.hpp"
 #include "hypo.hpp"
-#include <iostream>
 #include <random>
 
 static std::random_device rnd;
